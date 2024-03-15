@@ -5,3 +5,4 @@ Cookiecutterで利用するPythonプロジェクトのテンプレートです�
 
 * Dev Container
 * Poetry
+* Ruff
