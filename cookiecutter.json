@@ -1,0 +1,8 @@
+{
+    "project_name": "Awesome Python Project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_short_description": "Describe your own python project",
+    "full_name": "Jun Ohtani",
+    "email": "johtani@gmail.com",
+    "version": "0.1.0"
+  }

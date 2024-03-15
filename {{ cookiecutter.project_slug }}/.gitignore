@@ -1,0 +1,5 @@
+.venv
+.git
+.mypy_cache
+**/.ipynb_checkpoints
+**/__pycache__
